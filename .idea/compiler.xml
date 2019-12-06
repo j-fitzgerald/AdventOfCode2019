@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="BUILD_PROCESS_HEAP_SIZE" value="18000" />
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="AOC1Fuel" />
+        <module name="FiveIntCodes" />
+        <module name="FourPassword" />
+        <module name="OpCodes" />
+        <module name="OpCodesTryTwo" />
+        <module name="ThreeWires" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="_2OpCode" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
